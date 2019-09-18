@@ -1,0 +1,26 @@
+{
+  "name": "in2pos",
+  "version": "1.0.0",
+  "description": "infix to posfix",
+  "main": "in2pos.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WLLR9505/in2pos.git"
+  },
+  "keywords": [
+    "infix",
+    "posfix"
+  ],
+  "author": "Weuller Jr. Souza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WLLR9505/in2pos/issues"
+  },
+  "homepage": "https://github.com/WLLR9505/in2pos#readme",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
