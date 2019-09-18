@@ -5,7 +5,7 @@
 ```js
 const in2pos = require('in2pos');
 
-//calculate a posfix expression;
+//calculate a expression;
 in2pos.CalcPosfix(In2Pos('51/2/4=')); //6.375
 
 //convert infix to posfix;
