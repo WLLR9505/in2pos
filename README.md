@@ -1,5 +1,5 @@
 # in2pos
-
+[![npm version](https://badge.fury.io/js/in2pos.svg)](https://badge.fury.io/js/in2pos)
 ## Usage:
 
 ```js
