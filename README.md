@@ -1,5 +1,5 @@
 # in2pos
-[![npm version](https://badge.fury.io/js/in2pos.svg)](https://badge.fury.io/js/in2pos)
+[![npm version](https://badge.fury.io/js/in2pos.svg)](https://badge.fury.io/js/in2pos) [![CodeFactor](https://www.codefactor.io/repository/github/wllr9505/in2pos/badge)](https://www.codefactor.io/repository/github/wllr9505/in2pos)
 ## Usage:
 
 ```js
