@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/WLLR9505/in2pos#readme",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^30.4.2"
   }
 }
